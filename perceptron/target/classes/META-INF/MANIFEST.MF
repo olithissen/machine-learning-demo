@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: perceptron
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: v096644
+Implementation-Vendor-Id: net.tonick.demo
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/perceptron/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
